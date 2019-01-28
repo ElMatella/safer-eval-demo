@@ -6,7 +6,7 @@
     # dev bundle
     npm run dev
 
-    http://localhost:3000
+    http://localhost:1234
 
     # production bundle
     npm start
